@@ -1,0 +1,3 @@
+Note that Bootstrap Studio just helps you create the frontend of the website and not the whole website.
+Also, the linking part of the website is to be done using normal code editors like Visual Studio Code, Sublime Text Editor, etc.
+To get all the component files of your website you need to export your Design using the export option.

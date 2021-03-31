@@ -1,0 +1,7 @@
+To run the php code you have to start apache server using XAMPP/WAMPP(whichever you have installed on your device.)
+
+Save all the files in a folder inside the "htdocs" folder present inside the xampp folder in you C Drive.
+
+Once you have started Apache Server go to your browser and type in :
+"localhost/Your Folder Name"
+This will fetch all the files and folders present inside the folder that you have specified and then find your file and open it.

@@ -1,0 +1,43 @@
+.nav-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 13px;
+}
+
+.nav-link.apple-logo {
+  font-size: 21px;
+  line-height: 0;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top {
+  background-color: #000!important;
+  opacity: 0.8;
+}
+
+body {
+  padding-top: 100px;
+}
+
+.product {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.product h1 {
+  font-size: 54px;
+  font-weight: bold;
+}
+
+.product h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product .links {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.product .learn-more {
+  margin-right: 30px;
+}
+
